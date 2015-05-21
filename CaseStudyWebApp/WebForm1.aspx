@@ -16,7 +16,6 @@
         <br />
         <asp:Label ID="Label1" runat="server" Text=""></asp:Label>
         <br />
-        <asp:HiddenField ID="HiddenField1" runat="server" OnValueChanged="HiddenField1_ValueChanged" Value =" TEST TEST" />
         <br />
     </form>
 </body>
